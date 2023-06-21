@@ -1,5 +1,10 @@
 # String-primitives-and-macros
 
+Summary of what MASM program does: 
+provide 10 signed decimal integers
+Each number needs to be small enough to fit inside a 32 bit register. After you have finished inputting the raw numbers it will display a list of the
+integers, their sum, and their average value.
+
 Program Description
 Write and test a MASM program to perform the following tasks (check the Requirements section for specifics on program modularization):
 
